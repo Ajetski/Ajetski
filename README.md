@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, TypeScript, Fun Algo Questions, and Chess**
 
-- 📫 How to reach me <a href="mailto:ajensiki4@gmail.com"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" /></a>
+- 📫 How to reach me <a href="mailto:ajensiki4@gmail.com"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" /></a> <a href="https://linkedin.com/in/adamjeniski"><img height="32" width="32" src="https://image.flaticon.com/icons/svg/174/174857.svg"</a>
 
 - ⚡ Fun fact **Always looking to learn something new!**
 
@@ -17,6 +17,5 @@
 
 <p align="center">
 <!--<a href="https://twitter.com/ajet__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ajet__" height="30" width="30" /></a>-->
-<a href="https://linkedin.com/in/adamjeniski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adamjeniski" height="30" width="30" /></a>
 </p>
 
