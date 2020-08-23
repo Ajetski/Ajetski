@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Angular, TypeScript, Fun Algo Questions, and Chess**
 
-- 📫 How to reach me **ajeniski4@gmail.com**
+- 📫 How to reach me <a href="mailto:ajensiki4@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/[ICON NAME].svg" /></a>
 
 - ⚡ Fun fact **Always looking to learn something new!**
 
