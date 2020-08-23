@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajetski&show_icons=true&count_private=true&hide_rank=true" alt="ajetski" /></p>
 
 <p align="center">
-<a href="https://twitter.com/ajet__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ajet__" height="30" width="30" /></a>
+<!--<a href="https://twitter.com/ajet__" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ajet__" height="30" width="30" /></a>-->
 <a href="https://linkedin.com/in/adamjeniski" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="adamjeniski" height="30" width="30" /></a>
 </p>
 
