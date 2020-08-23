@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Jeniski</h1>
 <h3 align="center">A senior computer science major @ WCSU and frontend developer intern/co-op @ IBM</h3>
 
-- 🔭 I’m currently working on <a href="https://bestconn.app" target="_blank">BestConn (social media app)</a>
+- 🔭 I’m currently working on <a href="https://bestconn.app" target="blank">BestConn (social media app)</a>
 
 - 🌱 I’m currently learning **Distributed Applications Engineering, Operating Systems, and Programing Languages**
 
