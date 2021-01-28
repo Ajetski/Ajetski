@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Adam Jeniski</h1>
 <h3 align="center">A senior computer science major @ WCSU and frontend developer intern/co-op @ IBM</h3>
 
-- 🔭 I’m currently working on <a href="https://algolearn.dev" target="blank">AlgoLearn (web-based learning platfrom for algorithms)</a>
+- 🔭 I’m currently working on <a href="https://ajet-chess-app.herokuapp.com/" target="blank">Chess App</a> (code: <a href="https://github.com/Ajetski/Chess-App">Front end</a>, <a href="https://github.com/Ajetski/Chess-App-Api">Back end</a>)
 
-- 🌱 I’m currently learning **Distributed Applications Engineering, Operating Systems, and Programing Languages**
+- 🌱 I’m currently learning **Game Programming, Theory of Computation, React.js, Physics, and Management**
 
-- 💬 Ask me about **Angular, TypeScript, Fun Algo Questions, and Chess**
+- 💬 Ask me about **Angular, React.js, TypeScript, Fun Algo Questions, and Chess**
 
 - 📫 How to reach me  <a href="mailto:ajensiki4@gmail.com"><img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Gmail_Icon.svg" /></a> <a href="https://linkedin.com/in/adamjeniski"><img height="32" width="32" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>
 
