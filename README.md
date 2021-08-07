@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam Jeniski</h1>
-<h3 align="center">A senior computer science major @ WCSU and frontend developer intern/co-op @ IBM</h3>
+<h3 align="center">Software Engineer and Open Source Enthusiast</h3>
 
 - 🔭 I’m currently working on <a href="https://ajet-chess-app.herokuapp.com/" target="blank">Chess App</a> (code: <a href="https://github.com/Ajetski/Chess-App">Front end</a>, <a href="https://github.com/Ajetski/Chess-App-Api">Back end</a>)
 
