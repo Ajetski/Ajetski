@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam Jeniski</h1>
 <h3 align="center">Software Engineer and Open Source Enthusiast</h3>
 
-- 🔭 I’m currently working on <a href="https://ajet-chess-app.herokuapp.com/" target="blank">Chess App</a> (code: <a href="https://github.com/Ajetski/Chess-App">Front end</a>, <a href="https://github.com/Ajetski/Chess-App-Api">Back end</a>)
+- 🔭 I’m currently working on **Web servers in Rust**.
 
-- 🌱 I’m currently learning **Operating Systems & Embedded Systems**
+- 🌱 I’m currently learning **Rust, Kotlin, Functional Design, TDD**
 
 - 💬 Ask me about **Angular, React.js, TypeScript, Fun Algo Questions, and Chess**
 
