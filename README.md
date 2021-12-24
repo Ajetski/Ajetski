@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Web servers in Rust**.
 
-- 🌱 I’m currently learning **Rust, Kotlin, Functional Design, TDD**
+- 🌱 I’m currently learning **WASM, Rust, Kotlin, Functional Design, TDD**
 
 - 💬 Ask me about **Angular, React.js, TypeScript, Fun Algo Questions, and Chess**
 
