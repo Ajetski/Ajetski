@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Jeniski</h1>
 <h3 align="center">Software Engineer and Open Source Enthusiast</h3>
 
-- 🔭 I’m currently working on **eeb servers in Rust**
+- 🔭 I’m currently working on **web servers in Rust**
 
 - 🌱 I’m currently learning **WASM, Rust, Kotlin, Functional Design, TDD**
 
