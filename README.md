@@ -3,9 +3,7 @@
 
 - 🔭 I’m currently working on **web servers in Rust**
 
-- 🌱 I’m currently learning **WASM, Rust, Kotlin, Functional Design, TDD**
-
-- 💬 Ask me about **Angular, React.js, TypeScript, Fun Algo Questions, and Chess**
+- 🌱 I’m currently learning **WASM, Rust, Kotlin, Functional Design*
 
 - 📫 How to reach me  <a href="mailto:ajensiki4@gmail.com">📧</a> <a href="https://linkedin.com/in/adamjeniski"><img height="16" width="16" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>
 
