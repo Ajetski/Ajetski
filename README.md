@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam Jeniski</h1>
 <h3 align="center">Software Engineer and Open Source Enthusiast</h3>
 
-- 🔭 I’m currently working on **web servers in Rust**
+- 🔭 I’m currently working on **web servers using Node.js, TypeScript, Angular, Svelte, and React**
 
-- 🌱 I’m currently learning **WASM, Rust, Kotlin, and Functional Design**
+- 🌱 I’m currently learning **Compiler Design, GraphQL**
 
 - 📫 How to reach me  <a href="mailto:ajensiki4@gmail.com">Email</a>, <a href="https://linkedin.com/in/adamjeniski">LinkedIn</a>
 
