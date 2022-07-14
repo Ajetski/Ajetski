@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning **Compiler Design, GraphQL, and Lua (for writing neovim plugins)**
 - 📫 How to reach me  <a href="mailto:ajensiki4@gmail.com">Email</a>, <a href="https://linkedin.com/in/adamjeniski">LinkedIn</a>
 
-### My Favorite Tools at the moment (non-exhaustive)
+### My favorite tools at the moment (non-exhaustive)
 - Editor: Neovim
 - Language: TypeScript, Rust
 - UI Framework: Svelte
