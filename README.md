@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Adam Jeniski</h1>
 <h3 align="center">Software Engineer and Open Source Enthusiast</h3>
 
-- 🔭 I’m currently working on **web servers using Node.js, TypeScript, Angular, Svelte, and React**
+- 🔭 I’m currently working on **ajet-chat (to be renamed) using TypeScript, SvelteKit, TRPC, and Prisma w/ PostgreSQL**
 
-- 🌱 I’m currently learning **Compiler Design, GraphQL**
+- 🌱 I’m currently learning **Compiler Design, GraphQL, and Lua (for writing neovim plugins)**
 
 - 📫 How to reach me  <a href="mailto:ajensiki4@gmail.com">Email</a>, <a href="https://linkedin.com/in/adamjeniski">LinkedIn</a>
 
