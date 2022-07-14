@@ -6,10 +6,10 @@
 - 📫 How to reach me  <a href="mailto:ajensiki4@gmail.com">Email</a>, <a href="https://linkedin.com/in/adamjeniski">LinkedIn</a>
 
 ### My Favorite Tools at the moment (non-exhaustive)
-- Editors: Neovim
-- Languages: TypeScript, Rust
-- UI Frameworks: Svelte
-- Networking Frameworks: TRPC, GraphQL
+- Editor: Neovim
+- Language: TypeScript, Rust
+- UI Framework: Svelte
+- Networking Framework: TRPC, GraphQL
 - Shell: Bash, Nushell
 - OS: Pop!_OS, Red Hat Enterprise Linux
 - WM: i3, PaperWM (GNOME extension)
