@@ -7,9 +7,7 @@
 
 ### My favorite tools at the moment (non-exhaustive)
 - Editor: Neovim
-- Language: TypeScript, Rust
-- UI Framework: Svelte
-- Networking Framework: TRPC, GraphQL
-- Shell: Bash, Nushell
+- Language: Rust
+- Shell: zsh, nushell
 - OS: macOS
 - WM: yabai
