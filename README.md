@@ -11,5 +11,5 @@
 - UI Framework: Svelte
 - Networking Framework: TRPC, GraphQL
 - Shell: Bash, Nushell
-- OS: Pop!_OS, Red Hat Enterprise Linux
-- WM: i3, PaperWM (GNOME extension), Pop Shell (GNOME extension)
+- OS: macOS
+- WM: yabai
