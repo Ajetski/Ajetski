@@ -5,6 +5,6 @@
 - 📫 How to reach me  <a href="mailto:ajensiki4@gmail.com">Email</a>, <a href="https://linkedin.com/in/adamjeniski">LinkedIn</a>
 
 ### My favorite tools at the moment (non-exhaustive)
-- Editor: Neovim, Doom Emacs
+- Editor: Neovim
 - Language: Clojure, Rust
 - Shell: zsh, nushell
