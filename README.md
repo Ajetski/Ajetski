@@ -6,5 +6,5 @@
 
 ### My favorite tools at the moment (non-exhaustive)
 - Editor: Neovim
-- Language: Clojure, Rust
+- Language: Rust, Clojure 
 - Shell: zsh, nushell
