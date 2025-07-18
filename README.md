@@ -6,6 +6,7 @@
     - writing non-dead programs (https://www.youtube.com/watch?v=8Ab3ArE8W3s)
     - toy compilers (as always)
     - data... (big and small :P)
+    - magestic monoliths. dhh based? (recovering microservice engineer) simplify all the things
 - 📫 How to reach me <a href="mailto:ajensiki4@gmail.com">Email</a>, <a href="https://linkedin.com/in/adamjeniski">LinkedIn</a>
     - no inquiry about AI, web3, or blockchain start ups 🤦‍♂️
     - this is ONLY here for that unicorn clojure senior dev looking for some more firepower 😉
