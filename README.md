@@ -12,5 +12,6 @@
     - this is ONLY here for that unicorn clojure senior dev looking for some more firepower 😉
 
 ### My favorite tools at the moment (non-exhaustive)
+- THE REPL.
 - Editor: Neovim & Conjure.nvim
 - Language: Clojue, Rust
