@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm Adam Jeniski</h1>
 
-- 🌱 I’m currently in a greener lispy pasture. self host all the things (goodbye github, hello gitea)
+- 🌱 I’m currently in a greener lispy pasture & self hosting all the things (goodbye github, hello gitea)
+- 🎁 giving and recieving gifts (the magic of open source)
 - 🤔 Looking into:
     - Hypermedia based web, [D*](https://data-star.dev/) (& it's clj sdk), [hyperlith](https://github.com/andersmurphy/hyperlith)
     - writing non-dead programs (https://www.youtube.com/watch?v=8Ab3ArE8W3s)
