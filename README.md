@@ -16,3 +16,7 @@
 - THE REPL.
 - Editor: Neovim & Conjure.nvim
 - Language: Clojue, Rust
+
+### Disclaimer, moving repos
+- Personal repos are for code exploration and subject to be deleted on a whim
+- Moving deployed and actively maintained projets to <a href="https://gitea.ajet.fyi/ajet-industries">Ajet Industries</a>
