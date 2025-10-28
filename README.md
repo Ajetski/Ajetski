@@ -15,7 +15,7 @@
 ### My favorite tools at the moment (non-exhaustive)
 - THE REPL.
 - Editor: Neovim & Conjure.nvim
-- Language: Clojue, Rust
+- Language: Clojure, Rust
 
 ### Disclaimer, moving repos
 - Personal repos are for code exploration and subject to be deleted on a whim
