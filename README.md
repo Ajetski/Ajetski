@@ -3,7 +3,7 @@
 - 🌱 I’m currently in a greener lispy pasture & self hosting all the things (goodbye github, hello gitea)
 - 🎁 giving and recieving gifts (the magic of open source)
 - 🤔 Looking into:
-    - doing [MAL](https://github.com/kanaka/mal) in Golang
+    - playing with [Carp](https://github.com/carp-lang/Carp) lang. (For small lispy binaries with no GC requirement)
     - Property Based Testing, Quickcheck, [test.check](https://clojure.org/guides/test_check_beginner), [rapid](pgregory.net/rapid), etc
     - Hypermedia based web, [D*](https://data-star.dev/)
     - writing non-dead programs (https://www.youtube.com/watch?v=8Ab3ArE8W3s)
