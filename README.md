@@ -4,7 +4,7 @@
 - 🎁 giving and recieving gifts (the magic of open source)
 - 🤔 Looking into:
     - playing with [Carp](https://github.com/carp-lang/Carp) lang. (For small lispy binaries with no GC requirement)
-    - Property Based Testing, Quickcheck, [test.check](https://clojure.org/guides/test_check_beginner), [rapid](pgregory.net/rapid), etc
+    - Property Based Testing, Quickcheck, [test.check](https://clojure.org/guides/test_check_beginner), [rapid](https://pgregory.net/rapid), etc
     - Hypermedia based web, [D*](https://data-star.dev/)
     - writing non-dead programs (https://www.youtube.com/watch?v=8Ab3ArE8W3s)
 - 📫 How to reach me <a href="mailto:ajensiki4@gmail.com">Email</a>, <a href="https://linkedin.com/in/adamjeniski">LinkedIn</a>
