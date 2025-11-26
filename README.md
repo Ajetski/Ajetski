@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Adam Jeniski</h1>
 
-- 🌱 I’m currently in a greener lispy pasture & self hosting all the things (goodbye github, hello [gitea](https://git.ajet.fyi/ajet))
+- 🌱 I’m currently in a greener lispy pasture & self hosting all the things (goodbye [github](https://github.com/Ajetski), hello [gitea](https://git.ajet.fyi/ajet))
 - 🎁 giving and recieving gifts (the magic of open source)
 - 🤔 Looking into:
     - playing with [Carp](https://github.com/carp-lang/Carp) lang. (For small lispy binaries with no GC requirement)
